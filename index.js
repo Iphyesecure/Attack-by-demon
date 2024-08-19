@@ -27,12 +27,12 @@ ___     /   ____/
 :   :  /   /:        
  :   :/___/  :        
   :       :   :        
-   :_______:   :    StarsXTools ${version}
-           /   /    Owner: PermenMD
+   :_______:   :    𝙳𝙴𝙼𝙾𝙽Tools ${version}
+           /   /    Owner: 𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽
           /   /     Premium: true
-          :  /      WhatsApp: 6285732351432
-           :/       Telegram: @StarsXPermen_MD
-                    Portable Tools DDoS By PermenMD
+          :  /      WhatsApp: 2347041039367
+           :/       Telegram: @𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽_MD
+                    Portable Tools DDoS By 𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽MD
 ========================================================================`)}
 // [========================================] //
 async function scrapeProxy() {
