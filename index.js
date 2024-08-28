@@ -79,7 +79,7 @@ async function bootup() {
         console.log(`|| ▓▓▓▓▓▓▓▓▓▓ || 100%`)
         await sleep(700)
         console.clear()
-        console.log(`Welcome To PermenMD Tools ${version}`)
+        console.log(`Welcome To 𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽MD Tools ${version}`)
         await sleep(1000)
 		    await banner()
         console.log(`Type "help" For Showing All Available Command`)
@@ -95,7 +95,7 @@ async function bootup() {
       process.exit()
     }
   } catch (error) {
-    console.log(`Are You Online?`)
+    console.log(`baba your network bad oo`)
   }
 }// [========================================] //
 async function killWifi() {
@@ -111,7 +111,7 @@ if (yakin === 'exit') {
   console.log(`WiFi Killer Has Ended`)
   sigma()
 } else {
-  console.log(`do you mean 'exit'?`)
+  console.log(`u mean 'exit'?`)
   sigma()
 }})
 }
@@ -333,7 +333,7 @@ console.log(`
 Target   : ${target}
 Duration : ${duration}
 
-Spamming WhatsApp OTP That Can Annoy Someone Or Maybe Make Them Cannot Login`)
+Spamming WhatsApp OTP till it get locked by 𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽`)
 } catch (error) {
   console.log(`Oops Something Went Wrong`)
 }
@@ -365,7 +365,7 @@ console.log(`
 Target   : ${target}
 Duration : ${duration}
 Methods  : Digital Ocean Killer
-Creator  : PermenMD`)
+Creator  : 𝙱𝙻𝚄𝙴𝙳𝙴𝙼𝙾𝙽MD`)
 } catch (error) {
   console.log(`Oops Something Went Wrong`)
 }
@@ -400,7 +400,7 @@ console.log(`
 Target   : ${target}
 Duration : ${duration}
 Methods  : UDP Raw
-Creator  : PermenMD`)
+Creator  : 𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽`)
 } catch (error) {
   console.log(`Oops Something Went Wrong`)
 }
@@ -432,7 +432,7 @@ console.log(`
 Target   : ${target}
 Duration : ${duration}
 Methods  : Minecraft Flooder
-Creator  : PermenMD`)
+Creator  : 𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽`)
 } catch (error) {
   console.log(`Oops Something Went Wrong`)
     sigma()
@@ -465,7 +465,7 @@ console.log(`
 Target   : ${target}
 Duration : ${duration}
 Methods  : SAMP Flooder
-Creator  : PermenMD`)
+Creator  : 𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽`)
 } catch (error) {
   console.log(`Oops Something Went Wrong`)
     sigma()
@@ -530,7 +530,7 @@ async function sigma() {
 const getNews = await fetch(`https://raw.githubusercontent.com/permenmd/cache/main/news.txt`)
 const latestNews = await getNews.text();
 const creatorCredits = `
-Created And Coded Full By PermenMD
+Created And Coded Full By 𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽
 
 Thx To:
 ChatGPT ( Fixing Error )
@@ -564,7 +564,8 @@ permen.question('[\x1b[1m\x1b[32mPermenMD Console\x1b[0m]: \n', (input) => {
 | ai           | Chat With Ai
 | credits      | show creator of these tools
 | clear        | clear terminal
-`);
+
+by 𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽`);
     sigma();
   } else if (command === 'methods') {
     console.log(`
